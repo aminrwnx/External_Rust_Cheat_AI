@@ -25,7 +25,7 @@ Watch the setup and gameplay directly here:
 
 #### 🔵 User Mode
 * **Interface:** Clean ImGui overlay for feature toggling.
-* **Visuals:** Box, Skeleton, and Name ESP.
+* **Visuals:** Box, Sleepers, and Name ESP, Health.
 * **Offsets:** Latest offsets are pre-configured in the source.
 
 ---
